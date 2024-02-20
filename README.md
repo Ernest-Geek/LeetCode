@@ -16,8 +16,8 @@ Contributions to this repository are welcome! If you have an alternative solutio
 Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
 
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
+# Email: ernestampene1@gmail.com
+# LinkedIn: https://www.linkedin.com/feed/
+# GitHub: Ernest-Geek
 Acknowledgements
 I would like to express my gratitude to the LeetCode platform and its community for providing such valuable resources for practicing coding skills and algorithmic problem-solving.
